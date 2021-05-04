@@ -5,7 +5,9 @@
     "repository": "https://github.com/overciuc/node-emoji-generator.git",
     "author": "Olga Verciuc <o.verciuc@gmail.com>",
     "license": "MIT",
-    "dependencies": {},
+    "dependencies": {
+        "node-emoji": "^1.10.0"
+    },
     "devDependencies": {
         "@types/node": "14.14.37",
         "@types/react": "17.0.3",
